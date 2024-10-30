@@ -1,2 +1,15 @@
-# Ignore the virtual environment folder
+# Ignore all folders starting with "implementation"
+implementation1
+implementation2
+implementation3
+implementation4
+
+# Ignore virtual environment folder
 env/
+examples/
+# Ignore text files
+*.txt
+# Ignore any other unnecessary files (e.g., temporary files)
+*.log
+*.tmp
+*.bak

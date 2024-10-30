@@ -3,3 +3,5 @@ videos: https://drive.google.com/drive/folders/1E2wW2aRENgy_TqlzfICn58ahbTHVIaK6
 500 images of healthy and ill pigs: https://drive.google.com/drive/folders/1uqHrjcFcRZDw2Gu2-k8iBj_Aj0tuR_IT
 
 look at this model: https://github.com/Igonazio/Sick-Pig-Classifier/blob/main/Model/Linear_model.ipynb
+
+pig pose project: https://github.com/anl13/MAMMAL_datasets
