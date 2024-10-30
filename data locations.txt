@@ -5,3 +5,5 @@ videos: https://drive.google.com/drive/folders/1E2wW2aRENgy_TqlzfICn58ahbTHVIaK6
 look at this model: https://github.com/Igonazio/Sick-Pig-Classifier/blob/main/Model/Linear_model.ipynb
 
 pig pose project: https://github.com/anl13/MAMMAL_datasets
+
+online pig annotations: https://app.roboflow.com/pigai-ukdae/pigaiai/3
