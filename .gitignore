@@ -7,6 +7,7 @@ implementation4
 # Ignore virtual environment folder
 env/
 examples/
+data/
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
