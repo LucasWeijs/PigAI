@@ -10,9 +10,11 @@ examples/
 data/
 old data/
 testimage/
+model/
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
 *.log
 *.tmp
 *.bak
+implementation5/model.pth
