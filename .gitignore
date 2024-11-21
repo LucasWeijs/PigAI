@@ -9,6 +9,7 @@ env/
 examples/
 data/
 old data/
+testimage/
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
