@@ -8,6 +8,7 @@ implementation4
 env/
 examples/
 data/
+old data/
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
