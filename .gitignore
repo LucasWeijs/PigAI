@@ -12,6 +12,7 @@ old data/
 testimage/
 model/
 sampled_data/
+*sampled_data/
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
