@@ -13,6 +13,11 @@ testimage/
 model/
 sampled_data/
 *sampled_data/
+*sampled_data1/
+*sampled_data0.3/
+*sampled_data0.25/
+*sampled_data0.24/
+
 # Ignore text files
 *.txt
 # Ignore any other unnecessary files (e.g., temporary files)
