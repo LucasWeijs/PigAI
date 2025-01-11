@@ -5,7 +5,7 @@ This project focuses on developing an AI-based system to classify pig diseases. 
 
 ## Important Files  
 - **Documentation**  
-  - [`documentation/ai_pig_disease_classification_research_paper.docx`](documentation/ai_pig_disease_classification_research_paper.docx)  
+  - [`documentation/ai_pig_disease_classification_research_paper.docx`](documentation/AI_Pig_Disease_Classification_Research_Paper.docx)  
     Contains all research documentation, methodologies, and results related to this project.  
 - **Implementation**  
   - [`implementation/VGG16_Pig_Disease_Classification.ipynb`](implementation/VGG16_Pig_Disease_Classification.ipynb)  
