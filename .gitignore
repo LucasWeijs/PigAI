@@ -25,3 +25,8 @@ sampled_data/
 *.tmp
 *.bak
 implementation5/model.pth
+implementation5/vgg16_pig_disease_model.h5
+implementation/model.pth
+implementation5/vgg16_pig_disease_model.h5
+notebooks used for training/Pig.v2i.yolov5pytorch.zip
+notebooks used for training/test/Pig Count.v5i.yolov5pytorch.zip
